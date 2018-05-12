@@ -43,6 +43,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8986
     wikipedia: http://fr.wikipedia.org/wiki/Nicolas-Louis_Fran%C3%A7ois_de_Neufch%C3%A2teau
 description: 'Extrait des Œuvres de Blaise Pascal. Tome second. Paris: Lefèvre, 1819.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29772#Notes-de-Voltaire-et-de-Condorcet-sur-les-pens-es-de-Pascal
 gutenberg_bookshelf:
 - FR Philosophie, Religion et Morale
 - Banned Books from Anne Haight's list
