@@ -1,0 +1,61 @@
+_repo: Notes-de-Voltaire-et-de-Condorcet-sur-les-pens-es-de-Pascal_29772
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Voltaire
+    aliases:
+    - Arouet, François Marie
+    - Arouet, Francois Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Voltaire
+    - http://fr.wikipedia.org/wiki/Voltaire
+  - agent_name: Condorcet, Jean-Antoine-Nicolas de Caritat, marquis de
+    aliases:
+    - De Caritat, Jean-Antoine-Nicolas, marquis de Condorcet
+    - Caritat, Jean-Antoine-Nicolas de, marquis de Condorcet
+    birthdate: 1743
+    deathdate: 1794
+    gutenberg_agent_id: '34146'
+    url: http://www.gutenberg.org/2009/agents/34146
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Antoine_de_Caritat_de_Condorcet
+  - agent_name: Pascal, Blaise
+    alias: Montalte, Louis de
+    birthdate: 1623
+    deathdate: 1662
+    gutenberg_agent_id: '7913'
+    url: http://www.gutenberg.org/2009/agents/7913
+    wikipedia: http://en.wikipedia.org/wiki/Blaise_Pascal
+  - agent_name: François de Neufchâteau, Nicolas Louis, comte
+    aliases:
+    - Neufchâteau, Nicolas Louis François de, comte
+    - Neufchateau, François de
+    - Francois de Neufchateau, Nicolas Louis, comte
+    birthdate: 1750
+    deathdate: 1828
+    gutenberg_agent_id: '8986'
+    url: http://www.gutenberg.org/2009/agents/8986
+    wikipedia: http://fr.wikipedia.org/wiki/Nicolas-Louis_Fran%C3%A7ois_de_Neufch%C3%A2teau
+description: 'Extrait des Œuvres de Blaise Pascal. Tome second. Paris: Lefèvre, 1819.'
+gutenberg_bookshelf:
+- FR Philosophie, Religion et Morale
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2009-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29772'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'B'
+title: Notes de Voltaire et de Condorcet sur les pensées de Pascal
+url: http://www.gutenberg.org/ebooks/29772
